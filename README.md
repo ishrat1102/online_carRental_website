@@ -25,6 +25,8 @@ same email, National Id .
 
 8. Admin can view all user car renting information.
 
+9. Admin can logout.
+
 Guest User section of the website:
 -------------------
 1. Guest user can view homepage.
@@ -60,6 +62,8 @@ a confirmation mail to their registered mail. Otherwise, if date is already book
 11.User can cancel their booking but only before their pickup date .No user can cancel booking starting from their actual pickup date .
 
 12. User can view Reciept and can download reciept pdf.
+
+13.User can logout.
 
 
 
